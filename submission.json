@@ -1,0 +1,7 @@
+{
+  "prompt": "Underwater scene, wide cinematic shot looking across a vast coral reef landscape. The overwhelming majority of the frame — roughly 80% — is filled with bleached white coral skeletons: brittle, pale, ghostly, eerily beautiful in their stillness, like a cathedral of bones. In one small area of the frame, a vivid explosion of living coral in deep purples, electric blues, and warm oranges — dense, teeming, almost impossibly alive. The contrast between the bleached silence and the living colour is the entire story. No fish, no humans, no text, no labels, no legends, no numbers, no axes. Shot from a low angle looking across the reef floor. Photorealistic, editorial photography style, shot on film, shallow depth of field, diffused natural light filtering from above. Cinematic, melancholic, vast.",
+  "model": "Ideogram 2",
+  "dataset_name": "NOAA Coral Reef Watch — 4th Global Coral Bleaching Event (2023–2025)",
+  "dataset_url": "https://coralreefwatch.noaa.gov/satellite/research/coral_bleaching_report.php",
+  "insight": "84% of the world's coral reefs have been affected by the largest bleaching event ever recorded, driven by rising ocean temperatures that have set records for 8 consecutive years."
+}
